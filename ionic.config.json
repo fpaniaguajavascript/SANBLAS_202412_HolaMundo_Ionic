@@ -1,0 +1,7 @@
+{
+  "name": "SANBLAS_202412_HolaMundo_Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
